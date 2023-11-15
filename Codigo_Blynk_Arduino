@@ -1,4 +1,17 @@
-// Blynk IOT Smart Plant Monitoring System
+// Blynk IOT Cultivo Inteligente
+//Projeto Intrgrador Univesp 2_2023 
+//Engenharia de Computação - DRP01-PJI510-SALA-001GRUPO-017 
+//Membros do grupo 
+//CESAR AUGUSTO TEIXEIRA 
+//LUCAS DE ALMEIDA SOUZA 
+//ANDRÉ DE FELIPE SOUZA PEREIRA 
+//DAVID DE LIRA LOPES 
+//SERGIO EDUARDO DA SILVA 
+//LUIS HENRIQUE PAINELLI 
+//ANDREWS LIMA CARVALHO 
+//ANDRE RAMOS DOS SANTOS 
+//Proejto de Cultivo e Irrigação Inteligente 
+//Fonte de Consulta e Pesquisa: https://www.viralsciencecreativity.com/post/blynk-iot-smart-plant-monitoring-system
 
 /* Connections
 Relay. D3
